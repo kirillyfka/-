@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(
+    135deg,
+    #FFE4E1 15%,
+    #FFE4B5 30%,
+    #FFE4E1 45%,
+    #FFE4B5 60%,
+    #FFE4E1 70%,
+    #FFE4B5 85%
+  );
+}
